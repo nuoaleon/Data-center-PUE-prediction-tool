@@ -21,13 +21,12 @@
 * Climate condition
 * Hyperscale data center energy system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
+
 # Under-development
 
 * World-wide PUE analysis for non-hyperscale data centers
 * World-wide analysis of water usage effectiveness (WUE)
 * World-wide analysis of carbon usage effectiveness (CUE)
-
-# To do
 
 
 # Contact
