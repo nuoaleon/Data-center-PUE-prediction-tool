@@ -2,7 +2,7 @@
 
 * A simple simulation tool for *world-wide analysis* of data centers energy performace (power usage effectiveness);
   
-* A robust simulation tool for *large-scale global analysis*, low demanding on computional resources, without sacrificing prediction accuracy;
+* A robust simulation tool for *large-scale global analysis*, low demanding on computational resource, without sacrificing prediction accuracy;
 
 * Physics-based model support *national-level scenario analysis*;
 
