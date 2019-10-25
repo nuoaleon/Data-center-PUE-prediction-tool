@@ -1,4 +1,4 @@
-# Data-Center-PUE-prediction-tool
+# Data Center PUE Prediction Tool
 
 A simple simulation tool, for world-wide analysis of data centers energy performace (power usage effectiveness).
   
