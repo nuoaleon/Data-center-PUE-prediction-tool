@@ -23,6 +23,7 @@
 
 # Under-development
 
+* PUE of data center with liquid cooling
 * World-wide PUE analysis for non-hyperscale data centers
 * World-wide analysis of water usage effectiveness (WUE)
 * World-wide analysis of carbon usage effectiveness (CUE)
