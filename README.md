@@ -1,10 +1,10 @@
 # Data Center PUE Prediction Tool
 
-A simple simulation tool for *world-wide analysis* of data centers energy performace (power usage effectiveness);
+* A simple simulation tool for *world-wide analysis* of data centers energy performace (power usage effectiveness);
   
-  A robust simulation tool for *large-scale global analysis*, low demanding on computional resources, without sacrificing prediction accuracy;
+* A robust simulation tool for *large-scale global analysis*, low demanding on computional resources, without sacrificing prediction accuracy;
 
-  Support effective *PUE target-setting* according to Climate Zone.
+* Support effective *PUE target-setting* according to Climate Zone.
 
 
   
@@ -22,5 +22,5 @@ A simple simulation tool for *world-wide analysis* of data centers energy perfor
 3. world-wide analysis of carbon usage effectiveness (CUE)
 
 # Contact
-Author: Nuoa Lei (nuoalei2021@u.northwestern.edu)
+Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
 
