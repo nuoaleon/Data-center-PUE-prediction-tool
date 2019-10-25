@@ -1,4 +1,4 @@
-# Data-center-PUE-prediction-tool
+# Data-Center-PUE-prediction-tool
 
 A simple simulation tool, for world-wide analysis of data centers energy performace (power usage effectiveness).
   
@@ -10,7 +10,11 @@ A simple simulation tool, for world-wide analysis of data centers energy perform
 2. 
 
 
+# Under development
+
+1. world-wide analysis of water usage effectiveness (WUE)
+2. world-wide analysis of carbon usage effectiveness (CUE)
+
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu)
-
 
