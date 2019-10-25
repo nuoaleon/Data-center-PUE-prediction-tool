@@ -7,7 +7,8 @@ A simple simulation tool, for world-wide analysis of data centers energy perform
 # PUE estimation for hyperscale data centers
 
 1. Hyperscale data centers with airside economizer + adiabatic cooling
-2. 
+2. Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer)
+3. Hyperscale data centers with seawater cooling (waterside economizer)
 
 
 # Under development
