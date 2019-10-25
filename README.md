@@ -20,7 +20,6 @@
 * Climate condition
 * Hyperscale data center energy system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
-
 # Under-development
 
 * PUE of data center with liquid cooling
