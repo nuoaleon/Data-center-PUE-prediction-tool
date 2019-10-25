@@ -27,7 +27,7 @@
 * World-wide analysis of water usage effectiveness (WUE)
 * World-wide analysis of carbon usage effectiveness (CUE)
 
-# Optimization method for PUE target setting
+# Optimization method for PUE target-setting
 
 We suggest using differential evolution for PUE optimization: http://www1.icsi.berkeley.edu/~storn/code.html
 
