@@ -17,8 +17,9 @@ A simple simulation tool for world-wide analysis of data centers energy performa
 
 # Under development
 
-1. world-wide analysis of water usage effectiveness (WUE)
-2. world-wide analysis of carbon usage effectiveness (CUE)
+1. world-wide PUE analysis for non-hyperscale data centers
+2. world-wide analysis of water usage effectiveness (WUE)
+3. world-wide analysis of carbon usage effectiveness (CUE)
 
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu)
