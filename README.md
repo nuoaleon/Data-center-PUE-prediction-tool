@@ -4,9 +4,9 @@
   
 * A robust simulation tool for *large-scale global analysis*, low demanding on computational resource, without sacrificing prediction accuracy;
 
-* Physics-based model support *national-level scenario analysis*;
+* Physics-based model supporting *national-level scenario analysis*;
 
-* Support effective *PUE target-setting* according to Climate Zone.
+* Support effective *PUE target-setting* according to Climate Zone. (see optimization_results:)
 
 
   
