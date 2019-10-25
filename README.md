@@ -6,7 +6,7 @@
 
 * Physics-based model supporting *national-level scenario analysis*;
 
-* Support effective *PUE target-setting* according to Climate Zone. 
+* Support effective *PUE target-setting* according to Climate Zone
 
 
   
@@ -27,6 +27,10 @@
 * World-wide PUE analysis for non-hyperscale data centers
 * World-wide analysis of water usage effectiveness (WUE)
 * World-wide analysis of carbon usage effectiveness (CUE)
+
+# Optimization method
+
+We suggest using differential evolution for PUE optimization: http://www1.icsi.berkeley.edu/~storn/code.html
 
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
