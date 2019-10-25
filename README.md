@@ -28,7 +28,6 @@
 * World-wide analysis of water usage effectiveness (WUE)
 * World-wide analysis of carbon usage effectiveness (CUE)
 
-
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
 
