@@ -4,7 +4,7 @@ A simple simulation tool for *world-wide analysis* of data centers energy perfor
   
   A robust simulation tool for *large-scale global analysis*, low demanding on computional resources, without sacrificing prediction accuracy;
 
-  Support effective PUE target-setting;
+  Support effective *PUE target-setting* according to Climate Zone.
 
 
   
