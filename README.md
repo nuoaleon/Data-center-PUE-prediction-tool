@@ -1,10 +1,10 @@
 # Data Center PUE Prediction Tool
 
-A simple simulation tool for world-wide analysis of data centers energy performace (power usage effectiveness).
+A simple simulation tool for *world-wide analysis* of data centers energy performace (power usage effectiveness);
   
-  A robust simulation tool for large-scale global analysis, low demanding on computional resource, without sacrificing prediction accuracy.
+  A robust simulation tool for *large-scale global analysis*, low demanding on computional resources, swithout sacrificing prediction accuracy;
 
-  Support effective PUE target-setting.
+  Support effective PUE target-setting;
 
 
   
