@@ -12,9 +12,9 @@
   
 # PUE predition for hyperscale data centers
 
-* Hyperscale data centers with airside economizer + adiabatic cooling: call function **PUE_AE_Chiller(w_aech,*data)**
-* Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): call function **PUE_WEC_Chiller(w_wech,*data)**
-* Hyperscale data centers with seawater cooling (waterside economizer): call function **PUE_WES_Chiller(w_wech,*data)**
+* Hyperscale data centers with airside economizer + adiabatic cooling: call function __PUE_AE_Chiller(w_aech,*data)__
+* Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): call function __PUE_WEC_Chiller(w_wech,*data)__
+* Hyperscale data centers with seawater cooling (waterside economizer): call function __PUE_WES_Chiller(w_wech,*data)__
 
 
 # Under-development
