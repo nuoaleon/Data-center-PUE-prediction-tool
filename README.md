@@ -20,16 +20,9 @@
 * Climate condition
 * Hyperscale data center energy system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
-# Under-development
+# Reference
 
-* PUE of data center with liquid cooling
-* World-wide PUE analysis for non-hyperscale data centers
-* World-wide analysis of water usage effectiveness (WUE)
-* World-wide analysis of carbon usage effectiveness (CUE)
-
-# Optimization method for PUE target-setting
-
-We suggest using differential evolution for PUE optimization: http://www1.icsi.berkeley.edu/~storn/code.html
+* Lei, Nuoa, and Eric Masanet. "Statistical analysis for predicting location-specific data center PUE and its improvement potential." Energy (2020): 117556.
 
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
