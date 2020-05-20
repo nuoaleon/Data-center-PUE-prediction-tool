@@ -22,7 +22,7 @@
 
 # Reference
 
-* Lei, Nuoa, and Eric Masanet. "Statistical analysis for predicting location-specific data center PUE and its improvement potential." Energy (2020): 117556.
+* Lei, Nuoa, and Eric Masanet. "Statistical analysis for predicting location-specific data center PUE and its improvement potential." Energy (2020): 117556. https://doi.org/10.1016/j.energy.2020.117556
 
 # Contact
 Author: Nuoa Lei (nuoalei2021@u.northwestern.edu）
