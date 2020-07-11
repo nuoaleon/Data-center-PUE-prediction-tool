@@ -6,7 +6,7 @@
 
 * Physics-based model supporting *national-level scenario analysis*;
 
-* Support effective *PUE target-setting* according to Climate Zone
+* Support effective *PUE target-setting* according to Climate Zone.
 
   
 # PUE predition for hyperscale data centers
