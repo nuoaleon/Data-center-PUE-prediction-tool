@@ -20,6 +20,13 @@
 * Climate condition
 * Hyperscale data center energy system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 
+# Implementation of Sobol Sensitivity Analysis
+
+* Hyperscale data centers with airside economizer + adiabatic cooling: __F.1.1_AE_sensitivity analysis.ipynb__
+* Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): __F.1.2_WEC_sensitivity analysis.ipynb__
+* Hyperscale data centers with seawater cooling (waterside economizer): __F.1.3_WES_sensitivity analysis.ipynb__
+
+
 # Reference
 
 * Lei, Nuoa, and Eric Masanet. "Statistical analysis for predicting location-specific data center PUE and its improvement potential." Energy (2020): 117556. https://doi.org/10.1016/j.energy.2020.117556
