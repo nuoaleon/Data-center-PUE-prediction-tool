@@ -24,9 +24,9 @@
 
 # Implementation of Sobol Sensitivity Analysis
 
-* Hyperscale data centers with airside economizer + adiabatic cooling: __F.1.1_AE_sensitivity analysis.ipynb__
-* Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): __F.1.2_WEC_sensitivity analysis.ipynb__
-* Hyperscale data centers with seawater cooling (waterside economizer): __F.1.3_WES_sensitivity analysis.ipynb__
+* Hyperscale data centers with airside economizer + adiabatic cooling: See Jupyter Notebook __F.1.1_AE_sensitivity analysis.ipynb__
+* Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): See Jupyter Notebook __F.1.2_WEC_sensitivity analysis.ipynb__
+* Hyperscale data centers with seawater cooling (waterside economizer): See Jupyter Notebook __F.1.3_WES_sensitivity analysis.ipynb__
 
 
 # Reference
