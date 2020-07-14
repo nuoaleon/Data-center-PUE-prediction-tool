@@ -9,7 +9,7 @@
 * Support effective *PUE target-setting* according to Climate Zone.
 
   
-# PUE predition for hyperscale data centers
+# PUE Predition for Hyperscale Data Centers
 
 * Hyperscale data centers with airside economizer + adiabatic cooling: __PUE_AE_Chiller(w_aech,*data)__
 * Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): __PUE_WEC_Chiller(w_wech,*data)__
