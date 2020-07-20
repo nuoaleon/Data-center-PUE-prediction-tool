@@ -21,7 +21,7 @@
 * Climate condition
 * Hyperscale data center energy system parameters (equipment specifications, system operational efficiency metrics, and indoor environment set points)
 * Inputs for sensitivity analysis: please refer to __Table A.1. Model input values and ranges__ in the __Energy paper__
-* Inputs for uncertainty quantification: based on location-specific climate data and calibriated system parameters described in the __Energy paper__
+* Inputs for uncertainty quantification: based on location-specific climate data and calibriated system parameters described in the __Energy paper__: https://doi.org/10.1016/j.energy.2020.117556
 
 # Implementation of Sobol Sensitivity Analysis
 
