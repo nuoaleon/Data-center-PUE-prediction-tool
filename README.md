@@ -14,7 +14,7 @@
 * Hyperscale data centers with airside economizer + adiabatic cooling: __PUE_AE_Chiller(w_aech,*data)__
 * Hyperscale data centers utilizing evaporative cooling capability of cooling towers (waterside economizer): __PUE_WEC_Chiller(w_wech,*data)__
 * Hyperscale data centers with seawater cooling (waterside economizer): __PUE_WES_Chiller(w_wech,*data)__
-* (Examples of using the PUE simulation tool can be found at: __Simple examples for using the PUE simulation tool.ipynb__)
+* Examples of using the PUE simulation tool can be found at: __Simple examples for using the PUE simulation tool.ipynb__)
 
 # Inputs
 
